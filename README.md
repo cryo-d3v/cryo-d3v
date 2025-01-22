@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @cryo-d3v
+- 👋 Hi, I’m Cryo
 - 👀 I’m interested in computer science and software development :)
-- 🌱 I’m currently learning HTML
+- 🌱 I’m currently learning HTML > 
 - 💞️ I’m looking to collaborate on software development projects
 
 <!---

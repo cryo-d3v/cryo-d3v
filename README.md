@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Cryo
 - 👀 I’m interested in computer science and software development :)
-- 🌱 I’m currently learning HTML > 
+- 🌱 Learnt HTML,CSS > 
 - 💞️ I’m looking to collaborate on software development projects
 
 <!---

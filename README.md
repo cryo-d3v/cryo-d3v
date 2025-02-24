@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Cryo
+- 👋 Hi, I’m Cryo - you still doubting ?
 - 👀 I’m interested in computer science :)
 - 🌱 Learnt HTML,CSS, C > 
 - 💞️ I’m looking to collaborate on software development projects
